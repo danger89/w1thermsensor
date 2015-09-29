@@ -28,7 +28,7 @@ I've used a Raspberry Pi with an GPIO Breakout (Pi Cobbler)
 
 ### From Source
 
-    git clone https://github.com/timofurrer/w1thermsensor.git && cd w1thermsensor
+    git clone https://github.com/danger89/w1thermsensor.git && cd w1thermsensor
     python setup.py install
 
 *Note: maybe root privileges are required*
